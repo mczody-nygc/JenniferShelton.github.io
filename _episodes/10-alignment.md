@@ -4,8 +4,7 @@ title: "Read Alignment and Small Variant Calling"
 
 ## Intro to Alignment Lecture
 
-
-https://drive.google.com/file/d/1HysQvr9pEj0DInCuF9oBqHCpzA2ZlUDT/view?usp=sharing
+[https://drive.google.com/file/d/1ysr5-Azcc6bmEeTU3XqhPveAnDBjXXXl/view?usp=sharing]
 
 ## Getting Started
 Log in to your instances through Jupyter notebooks and launch a terminal.
@@ -264,7 +263,7 @@ We will stop here and take a look at each of the file formats we have used so fa
 
 ## Intro to Variant Calling
 
-https://drive.google.com/file/d/1hVpzIwBL1HeLyupUwIhtHxn349veBWoX/view?usp=sharing
+[https://drive.google.com/file/d/11vjArMS42wphtdUF54aFSgwqzA9CxNy6/view?usp=sharing]
 
 ## Marking Duplicates
 Sometimes you get identical read pairs (or single end reads with identical alignments, but those are more
